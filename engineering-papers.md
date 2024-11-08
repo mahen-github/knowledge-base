@@ -2,6 +2,10 @@
 
 As the tech industry continues to evolve, staying up-to-date with the latest advancements in distributed systems and big data is crucial. This curated list of engineering papers covers fundamental concepts and innovative solutions from industry leaders like Google, Amazon, Facebook, and more. Whether you're a seasoned engineer or just starting your journey, these papers offer invaluable insights into the architecture and design of large-scale systems.
 
+## Messaging and Event Streaming
+
+- [Apache Kafka: A Distributed Streaming Platform](https://kafka.apache.org/)
+  
 ## Distributed File Systems and Storage
 
 - [Google File System (GFS)](https://research.google/pubs/the-google-file-system/)
@@ -97,10 +101,6 @@ As the tech industry continues to evolve, staying up-to-date with the latest adv
 ## Service Management
 
 - [ServiceRouter: A Service Mesh for Collaborating Microservices](https://research.facebook.com/publications/servicerouter-a-service-mesh-for-collaborating-microservices/)
-
-## Messaging and Event Streaming
-
-- [Apache Kafka: A Distributed Streaming Platform](https://kafka.apache.org/)
 
 ## Interoperability
 
